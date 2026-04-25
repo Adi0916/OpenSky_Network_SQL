@@ -1,5 +1,5 @@
 # OpenSky Network Air Traffic Analysis
-
+### Narazie przykładowa struktura
 ## Opis projektu
 System służy do automatycznego gromadzenia i analizy danych o ruchu lotniczym w czasie rzeczywistym przy użyciu **OpenSky Network API**. Projekt realizuje pełny proces ETL (Extract, Transform, Load) – od pobrania danych przez API, przez ich walidację i archiwizację w relacyjnej bazie danych, aż po wizualizację na dashboardzie.
 
