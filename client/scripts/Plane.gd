@@ -2,7 +2,6 @@ extends Node3D
 @export var init_pos: Vector2
 @export var anmiate: AnimationPlayer
 
-
 func _ready() -> void:
 	anmiate.play("Blinking")
 
